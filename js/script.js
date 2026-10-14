@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   "use strict";
   //portofolio
-  const WA = "6285179526502";
+  const WA = "6285374485864";
   const img = (name) => `assets/images/${name}`;
   const photos = [
     img("4.JPG"), img("couple.JPG"), img("graduation.JPG"),
