@@ -26,3 +26,12 @@
 ## Pembaruan responsif (12 Oktober 2026)
 
 Versi ini mempertahankan desain, aset foto, warna, dan fungsi website asli. Penyesuaian dilakukan pada CSS responsif untuk laptop, tablet, HP, serta layar HP kecil (hingga sekitar 320 px). Perbaikan markup kecil juga dilakukan pada navigasi desktop agar tautan Videography dan Kontak tersusun benar.
+
+
+## Update slide sampul Home
+Tiga gambar sampul Home sekarang menggunakan file lokal berikut:
+- `assets/images/home-slide-1.jpg`
+- `assets/images/home-slide-2.jpg`
+- `assets/images/home-slide-3.jpg`
+
+Untuk mengganti gambar lagi, pertahankan nama file tersebut atau ubah path di bagian `.hero-slider` pada `index.html`.
